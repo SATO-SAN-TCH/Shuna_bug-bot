@@ -11,19 +11,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "237698581946"
-global.ownername = "🐉Limule Solitarus"
+global.ownernomer = "242056717867"
+global.ownername = "𒆜🌹⃤ＩＬＵＭＩＮＡＴＩ🌹⃤𝐆𝐑𝐈𝐌𝐌⸥⟆𖥳𒆜"
 global.ytname = "YT: Deaethgun635"
 global.socialm = "GitHub: Limule3650"
 global.location = "Cameroon, Yaounde"
 
-global.ownernumber = '237698581946'  //creator number
-global.ownername = '🐉Limule Solitarus' //owner name
+global.ownernumber = '242056717867'  //creator number
+global.ownername = '𒆜🌹⃤ＩＬＵＭＩＮＡＴＩ🌹⃤𝐆𝐑𝐈𝐌𝐌⸥⟆𖥳𒆜' //owner name
 global.botname = '💞𝐒𝐇𝐔𝐍𝐀_𝐁𝐔𝐆-𝐁𝐎𝐓💞' //name of the bot
 
 //sticker details
 global.packname = '🍭𝐒𝐞𝐱𝐲 𝐒𝐡𝐮𝐧𝐚-𝐛𝐨𝐭'
-global.author = '🐉Limule Solitarus'
+global.author = '𒆜🌹⃤ＩＬＵＭＩＮＡＴＩ🌹⃤𝔾.𝕣.𝕚.𝕞.𝕞.𒆜'
 
 //console view/theme
 global.themeemoji = '🪀'
@@ -60,7 +60,7 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 //reply messages
 global.mess = {
     done: '𝑫𝒐𝒏𝒆 𝒃𝒂𝒃𝒆🍭',
-    prem: '𝑵𝒐 𝒏𝒐 𝒎𝒚 𝒉𝒆𝒂𝒓𝒕🤧 𝒕𝒉𝒊𝒔 𝒇𝒆𝒂𝒕𝒖𝒓𝒆 𝒄𝒂𝒏 𝒃𝒆 𝒖𝒔𝒆𝒅 𝒐𝒏𝒍𝒚 𝒃𝒚 𝑳𝒊𝒎𝒖𝒍𝒆😍 𝒐𝒓 𝒑𝒓𝒆𝒎𝒊𝒖𝒎 𝒖𝒔𝒆𝒓𝒔 𝒐𝒏𝒍𝒚🫠',
+    prem: '𝑵𝒐 𝒏𝒐 𝒎𝒚 𝒉𝒆𝒂𝒓𝒕🤧 𝒕𝒉𝒊𝒔 𝒇𝒆𝒂𝒕𝒖𝒓𝒆 𝒄𝒂𝒏 𝒃𝒆 𝒖𝒔𝒆𝒅 𝒐𝒏𝒍𝒚 𝒃𝒚 𒆜🌹⃤ＩＬＵＭＩＮＡＴＩ🌹⃤😍 𝒐𝒓 𝒑𝒓𝒆𝒎𝒊𝒖𝒎 𝒖𝒔𝒆𝒓𝒔 𝒐𝒏𝒍𝒚🫠',
     admin: '𝑵𝒂𝒉𝒉𝒉 𝒃𝒂𝒃𝒆🤧 𝒕𝒉𝒊𝒔 𝒇𝒆𝒂𝒕𝒖𝒓𝒆 𝒄𝒂𝒏 𝒐𝒏𝒍𝒚 𝒃𝒆 𝒖𝒔𝒆𝒅 𝒃𝒚 𝒂𝒅𝒎𝒊𝒏🍭',
     botAdmin: '𝑺𝒘𝒆𝒆𝒕𝒚🥺 𝒕𝒉𝒊𝒔 𝒇𝒆𝒂𝒕𝒖𝒓𝒆 𝒄𝒂𝒏 𝒐𝒏𝒍𝒚 𝒃𝒆 𝒖𝒔𝒆𝒅 𝒘𝒉𝒆𝒏 𝑺𝒉𝒖𝒏𝒂 𝒊𝒔 𝒂𝒅𝒎𝒊𝒏\n\n𝑷𝒓𝒐𝒎𝒐𝒕𝒆 𝒔𝒉𝒖𝒏𝒂💞☺️',
     owner: '𝑻𝒉𝒊𝒔 𝒇𝒆𝒂𝒕𝒖𝒓𝒆 𝒄𝒂𝒏 𝒐𝒏𝒍𝒚 𝒃𝒆 𝒖𝒔𝒆𝒅 𝒃𝒚 𝑳𝒊𝒎𝒖𝒍𝒆😍💞 𝒐𝒓 𝒎𝒚 𝒐𝒘𝒏𝒆𝒓 𝒅𝒂𝒓𝒍𝒊𝒏𝒈🍭',
